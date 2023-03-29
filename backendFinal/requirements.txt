@@ -1,0 +1,9 @@
+flask
+flask-cors
+language_tool_python
+nltk
+pandas
+scikit-learn
+sklearn
+xgboost
+waitress
